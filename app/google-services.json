@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054006260291",
+    "project_id": "trackingcontrol-435bc",
+    "storage_bucket": "trackingcontrol-435bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054006260291:android:fdd10364c522f18a0f5af6",
+        "android_client_info": {
+          "package_name": "com.example.trackingcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054006260291-tmanpaouekhkmkk42f574ql6spl9ut0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackingcontrol",
+            "certificate_hash": "bc8e930876e4a6a18d47e2d941f6201793f1473d"
+          }
+        },
+        {
+          "client_id": "1054006260291-dhila92hjdovv5qtp8f6bl194i6c7lnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3c5yshaY7SDOm6SCvjUWEWe44vyMTvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054006260291-1qqcvobd3jb0hr75n1mce204nvvj7tif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

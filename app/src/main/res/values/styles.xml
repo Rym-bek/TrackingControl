@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="DefaultTextStyle">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textSize">@dimen/textSize_14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

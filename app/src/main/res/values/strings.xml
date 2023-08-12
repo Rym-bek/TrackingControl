@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tracking Control</string>
+    <string name="title_map">Локация</string>
+    <string name="title_users">Пользователи</string>
+    <string name="title_notifications">Настройка</string>
+    <string name="location_not_found">Локация не обнаружена</string>
+    <string name="account">Аккаунт</string>
+    <string name="name">Имя пользователя</string>
+    <string name="create_nickname">Создать имя пользователя</string>
+    <string name="photo">Фотография профиля</string>
+    <string name="change_photo">Выбрать фото профиля</string>
+    <string name="settings">Настройки</string>
+    <string name="attention">Внимание</string>
+    <string name="you_sure_to_exit">Вы действительно хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="change_name">Изменить имя</string>
+    <string name="select_photo">Выбрать фотографию</string>
+    <string name="exit">Выйти</string>
+    <string name="users">Пользователи</string>
+    <string name="locations">Локация</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="email">Электронная почта</string>
+    <string name="your_email">Ваша электронная почта</string>
+</resources>
